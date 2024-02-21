@@ -1,0 +1,1 @@
+cc -L/opt/homebrew/Cellar/jpeg/9f/lib/ -I/opt/homebrew/Cellar/jpeg/9f/include/ -ljpeg main.c
